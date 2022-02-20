@@ -10,7 +10,7 @@ div(contenteditable="plaintext-only" data-time="-")
   <style>
 [contenteditable="plaintext-only"]{
   position:relative;
-  padding:1rem;border:1px solid gray;
+  /*padding:1rem;border:1px solid gray;*/
 }
 [contenteditable="plaintext-only"]:after{
   position:absolute;
